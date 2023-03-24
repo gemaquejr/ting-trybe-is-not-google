@@ -4,9 +4,9 @@ Essa aplicação simula um algoritmo de indexação de documentos similar ao do 
 
 O projeto foi desenvolver soluções nos módulos de:
 
-- Gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT)
+- Gerenciamento de arquivos - Que permite anexar arquivos de texto (formato TXT)
 
-- E de Busca que permite operar funções de busca sobre os arquivos anexados.
+- Busca - Que permite operar funções de busca sobre os arquivos anexados.
 
 ## 🚀 Tecnologia
 
