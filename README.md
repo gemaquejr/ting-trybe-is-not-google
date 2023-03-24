@@ -2,7 +2,11 @@
 
 Essa aplicação simula um algoritmo de indexação de documentos similar ao do Google, capaz de identificar ocorrências presentes em arquivos TXT.
 
-O projeto foi desenvolver soluções nos módulo de gerenciamento de arquivos: permite anexar arquivos de texto (formato TXT) e módulo de busca: permite operar funções de busca sobre os arquivos anexados.
+O projeto foi desenvolver soluções nos módulos de:
+
+- Gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT)
+
+- E de Busca que permite operar funções de busca sobre os arquivos anexados.
 
 ## 🚀 Tecnologia
 
